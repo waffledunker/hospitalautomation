@@ -1,0 +1,4 @@
+ 1 a-ferin 100 coldsore 10tl
+2 calpol 250 cold 15tl
+3 sudafed 300 cold 10 tl
+ 1 sudafed 100 10tl

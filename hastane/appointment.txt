@@ -1,0 +1,4 @@
+ 145 alpcan iscan dr.ahmet-veli/kbb 15-12-2016-20.39
+ 167 onur ergenc dr.andac-ozdemir/kardiyoloji 16.12.2016/02.53
+567 hasan keser dr.bilge-bulut/fizyoloji 18.12.2016/15:45
+ 1 gamze y�lmaz dr.kemal-aktas/kbb 18.12.16--16:15

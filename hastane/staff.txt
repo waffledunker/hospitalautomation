@@ -1,0 +1,3 @@
+ 345 hakan topal doktor-kbb erkek
+246 hazal asik doktor-fizyo kadin
+ 1 andac ozdemir doktor/kbb erkek
